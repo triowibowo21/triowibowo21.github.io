@@ -2475,13 +2475,23 @@
 
 			.image.fit img {
 				display: block;
-				/* width: 100%; */
-				/* modifikasi */
+				width: 100%;
+			}
+		
+		/* modifikasi add icon */
+			.image.icon {
+				display: block;
+				margin: 0 0 0 0;
+				width: 100%;
+		}
+			
+			.image.icon img {
+				display: block;
 				max-width: 100%;
-    			max-height: 200px; /* Tetapkan tinggi maksimum */
+				max-height: 200px; /*Tetapkan tinggi maksimum */
 				width: auto; /* Memastikan gambar tetap proporsional */
-				height: auto;    /* Menjaga rasio aspek gambar */
-				margin: 0 auto;  /* Memusatkan gambar */
+				height: auto; /* Menjaga rasio aspek gambar */
+				margin: 0 auto; /* Memusatkan gambar */
 			}
 
 /* List */
