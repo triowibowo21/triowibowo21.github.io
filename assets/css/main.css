@@ -2698,6 +2698,34 @@
 
 		}
 
+/* modifikasi */
+/* add status */
+
+.status-light {
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    margin-right: 6px;
+    border-radius: 50%; /* Membuat lingkaran */
+    vertical-align: middle; /* Menyelaraskan dengan teks */
+	}
+
+	/* Warna berdasarkan status */
+	.status-light.available {
+		background-color: #46e385; /* Hijau */
+	}
+
+	.status-light.busy {
+		background-color: #e34646; /* Merah */
+	}
+
+	.status-light.offline {
+		background-color: #bdbdbd; /* Abu-abu */
+	}
+
+
+	
+
 /* Table */
 
 	.table-wrapper {
