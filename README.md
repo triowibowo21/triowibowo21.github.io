@@ -10,7 +10,7 @@
 	<i>October 2017</i><br>
 	<h2>Experience</h2>
 	<a href="https://about.bukalapak.com/"><b>PT Bukalapak.com</b></a><br>
-	<b>Data Analyst: Customer Satisfaction</b><br>
+	<b>Data Analyst</b><br>
 	<i>May 2020 - Present</i>
 	<ul>
 		<li>Developed data-driven solutions to support strategic decision-making, primarily analyzing customer behavior to enhance satisfaction across products and services.</li>
