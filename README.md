@@ -1,5 +1,5 @@
 <div>
-	<h1>Portfolio Trio Wibowo</h1>
+	<h1>Trio Wibowo | Data Analyst Portfolio</h1>
 	Hi I'm Trio Wibowo, Welcome to my portfolio! I specialize in transforming data into actionable insights for businesses, with a strong passion for data analyst and business intelligence analyst enthusiast.
 	<h2>About Me</h2>
 	Data analyst with over 4 years of experience transforming data into insights for decision-making to improve product quality, service delivery, and customer satisfaction metrics. Commit to an analytical course to develop programming skills in SQL, R, and Python, focusing on advanced data manipulation, analysis, predictive modeling, and creating visualization with interactive dashboards.
