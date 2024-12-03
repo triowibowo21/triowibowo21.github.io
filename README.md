@@ -4,11 +4,12 @@
 	<h2>About Me</h2>
 	Data analyst with over 4 years of experience transforming data into insights for decision-making to improve product quality, service delivery, and customer satisfaction metrics. Commit to an analytical course to develop programming skills in SQL, R, and Python, focusing on advanced data manipulation, analysis, predictive modeling, and creating visualization with interactive dashboards.
 	<h2>Education</h2>
-	<b>IPB University</b>, Bogor, Indonesia<br>
+	<a href="https://www.ipb.ac.id/"><b>IPB University</b></a>, Bogor, Indonesia<br>
 	Bachelor of Science in Physics<br>
+	<a href="https://repository.ipb.ac.id/handle/123456789/90740?show=full">Dynamics Massive Gravity Model in de-Sitter Universe with Modified Perfect Fluid Stress-Energy Tensor</a><br>
 	<i>October 2017</i><br>
 	<h2>Experience</h2>
-	<b>PT Bukalapak.com</b><br>
+	<a href="https://about.bukalapak.com/"><b>PT Bukalapak.com</b></a><br>
 	<b>Data Analyst: Customer Satisfaction</b><br>
 	<i>May 2020 - Present</i>
 	<ul>
@@ -20,7 +21,7 @@
 		<li>Optimized data models and query logic for faster retrieval and greater accuracy in migrating 141 reports, reducing project completion time by 20%.</li>
 		<li>Designed ERD schemas, ETL workflows, and interactive dashboards using Tableau to identify growth opportunities at PT Buka Tumbuh Berbagi (BTB), resulting in a 30% increase in data-driven decision-making.</li>
 	</ul>
-	<b>PT Bukalapak.com</b><br>
+	<a href="https://about.bukalapak.com/"><b>PT Bukalapak.com</b></a><br>
 	<b>Operation Delivery Monitoring</b><br>
 	<i>August 2018 - May 2020</i>
 	<ul>
@@ -61,25 +62,25 @@
 	</ul>
 	<h2>Certification</h2>
 	<ul>
-		<li>Data Science, Binar Academy | No Expire | Credential: FGA/BLSDM.Kominfo/2024</li>
-		<li>Google Data Analytics Professional, Coursera | No Expire | Credential: 68G7TL7MN2NH</li>
-		<li>Data Scientist, Digital Talent Scholarship | No Expire | Credential: DTS/BLSDM.KOMINFO/05/2021</li>
-		<li>Data Management Business Analytics (MBA), IYKRA | No Expire | Credential: IYKRA/DMBA/03/2021/021</li>
+		<li>Data Science, Binar Academy | No Expire | Credential: <a href="https://drive.google.com/file/d/1MePMZznsaxlXwmMyMTwbkNr28cSc9Iul/view" target="_blank">FGA/BLSDM.Kominfo/2024</a></li>
+		<li>Google Data Analytics Professional, Coursera | No Expire | Credential: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/68G7TL7MN2NH" target="_blank">68G7TL7MN2NH</a></li>
+		<li>Data Scientist, Digital Talent Scholarship | No Expire | Credential: <a href="https://drive.google.com/file/d/1avq8FzRnouffZ0tEB_McX8JT4UU5nAlk/view" target="_blank">DTS/BLSDM.KOMINFO/05/2021</a></li>
+		<li>Data Management Business Analytics (MBA), IYKRA | No Expire | Credential: <a href="https://drive.google.com/file/d/1t2aXWx6IeMsa1deeWUBJu8J8DoqWkD_6/view">IYKRA/DMBA/03/2021/021</a></li>
 	</ul>
 	<h2>Projects</h2>
 	<ul>
-		<li>Customer Churn Prediction</li>
-		<li>Cyclistic Bike-Share Analysis</li>
+		<li><a href="https://github.com/triowibowo21/customer-churn-prediction/tree/master" target="_blank">Customer Churn Prediction</a></li>
+		<li><a href="https://github.com/triowibowo21/cyclistic-bike-share-analysis/tree/master" target="_blank">Cyclistic Bike-Share Analysis</a></li>
 	</ul>
 	<h2>Visualization</h2>
 	<ul>
-		<li>Looker Studio: COVID-19 Indonesia</li>
-		<li>Tablau: Cyclistic Bike-Share Company</li>
+		<li><a href="https://lookerstudio.google.com/reporting/a547c5ee-4146-425e-878c-2e8a5a30440d" target="_blank">Looker Studio: COVID-19 Indonesia</a></li>
+		<li><a href="https://public.tableau.com/app/profile/trio.wibowo/viz/CylisticBikeShareTrips/cylisticbikesharetrips" target="_blank">Tablau: Cyclistic Bike-Share Company</a></li>
 	</ul>
 	<h2>Contact Information</h2>
-	<img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white">
-	<img src="https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white">
-	<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-	<img src="https://img.shields.io/badge/kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white">
+	<a href="https://github.com/triowibowo21" target="_blank"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"></a>
+	<a href="https://triowibowo21.medium.com/" target="_blank"><img src="https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/triowibowo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://www.kaggle.com/triowibowo28" target="_blank"><img src="https://img.shields.io/badge/kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 	
 </div>
