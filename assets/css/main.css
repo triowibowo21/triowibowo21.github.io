@@ -2365,7 +2365,6 @@
 		border-bottom: none;
 		position: relative;
 	}
-
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
@@ -2378,6 +2377,22 @@
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
 		}
+		
+	    .icons a {
+			display: inline-block;
+			padding: 0.5em;
+			text-decoration: none;
+			color: inherit;
+		}
+
+		.icons a:hover {
+			background-color: rgba(255, 255, 255, 0.2);
+			color: #46e385;
+			border-radius: 50%;
+			transform: scale(1.1);
+			transition: all 0.3s ease-in-out;
+		}
+
 
 		.icon > .label {
 			display: none;
@@ -2484,11 +2499,13 @@
 			.image.icon img {
 				display: block;
 				max-width: 100%;
-				max-height: 200px; /*Tetapkan tinggi maksimum */
+				max-height: 160px; /*Tetapkan tinggi maksimum */
 				width: auto; /* Memastikan gambar tetap proporsional */
+				/* object-fit: contain;   */
 				height: auto; /* Menjaga rasio aspek gambar */
 				margin: 0 auto; /* Memusatkan gambar */
 			}
+			
 		/* add image for full */
 		.image.full {
 			display: block;
@@ -2823,6 +2840,9 @@
 		input[type="button"]:hover,
 		.button:hover {
 			background-color: #737373;
+			transform: scale(1.05);
+			box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+			border-color: transparent; 
 		}
 
 		input[type="submit"]:active,
@@ -3019,6 +3039,9 @@
 				background-color: rgba(255, 255, 255, 0.2);
 				border-radius: 10px; 
 				display: inline-block; 
+				/* border-radius: 50%; */
+				transform: scale(1.1);
+				transition: all 0.3s ease-in-out;
 			}
 			
 			
@@ -3071,6 +3094,9 @@
 					/* add active navigation */
 					#header nav > ul > li:hover a {
 						background-color: rgba(255, 255, 255, 0.2);
+						/* border-radius: 50%; */
+						transform: scale(1.1);
+						transition: all 0.3s ease-in-out;
 					}
 
 					#header nav > ul > li a:not(.button) {
@@ -3288,7 +3314,7 @@
 			#banner input[type="reset"]:hover,
 			#banner input[type="button"]:hover,
 			#banner .button:hover {
-				background-color: rgba(255, 255, 255, 0.1);
+				background-color: rgba(255, 255, 255, 0.2);
 			}
 
 			#banner input[type="submit"]:active,
